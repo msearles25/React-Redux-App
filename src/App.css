@@ -1,8 +1,11 @@
 .App{
   text-align: center;
 }
+html{
+  height: 100%;
+}
 body {
-  background: #d68556;
+  background: linear-gradient(0.30turn, #eb9767, #e6a176be, #ecc87a);
 }
 
 .quote {
@@ -10,8 +13,8 @@ body {
   padding: 1rem;
   box-shadow: 2px 2px #a7a7a7;
   width: 50%;
-  background: antiquewhite;
-  box-shadow: 3px 4px 15px 5px #505050;
+  background: linear-gradient(#faebd7, #d4c6b2);
+  box-shadow: 3px 4px 15px 4px #505050;
   border-radius: 5px;
 }
 
@@ -23,7 +26,8 @@ body {
   border-radius: 5px;
   background: antiquewhite;
   border: 2px solid #505050;
-  box-shadow: 3px 5px 20px 5px #505050;
+  box-shadow: 3px 5px 20px 3px #505050;
+  background: linear-gradient(#faebd7, #d4c6b2);
 }
 
 h1 {
