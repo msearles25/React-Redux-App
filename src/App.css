@@ -1,0 +1,37 @@
+.App{
+  text-align: center;
+}
+html{
+  height: 100%;
+}
+body {
+  background: linear-gradient(0.30turn, #eb9767, #e6a176be, #ecc87a);
+}
+
+.quote {
+  margin: 0 auto;
+  padding: 1rem;
+  box-shadow: 2px 2px #a7a7a7;
+  width: 50%;
+  background: linear-gradient(#faebd7, #d4c6b2);
+  box-shadow: 3px 4px 15px 4px #505050;
+  border-radius: 5px;
+}
+
+.btn {
+  margin-top: 2rem;
+  font-size: 1.0rem;
+  width: 9rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  background: antiquewhite;
+  border: 2px solid #505050;
+  box-shadow: 3px 5px 20px 3px #505050;
+  background: linear-gradient(#faebd7, #d4c6b2);
+}
+
+h1 {
+  opacity: 0.8;
+  font-size: 45px;
+  margin: 50px;
+}
